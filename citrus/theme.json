@@ -1,0 +1,21 @@
+{
+  "id": "citrus",
+  "name": "Цитрус",
+  "version": "1.0.0",
+  "author": "zestful",
+  "description": "Тёплые золотые оттенки, которые освежают рабочее пространство.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#fde047",
+  "darkMode": true,
+  "colorOnTitleBars": true,
+  "transparency": true,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": { "accent": "#fde047", "background": "#1c1800", "surface": "#2d2400", "text": "#fefce8" },
+  "animations": { "windowOpen": "spring", "windowClose": "fade", "minimize": "spring", "taskbarHover": "glow", "menuTransition": "slide", "tooltipFade": true },
+  "widgets": [],
+  "tags": ["warm", "yellow", "gradient"],
+  "downloads": 543,
+  "createdAt": "2026-03-01"
+}

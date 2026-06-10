@@ -1,0 +1,21 @@
+{
+  "id": "arctic",
+  "name": "Арктика",
+  "version": "1.0.0",
+  "author": "coldui",
+  "description": "Ледяная голубизна и кристально чистые поверхности.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#bae6fd",
+  "darkMode": true,
+  "colorOnTitleBars": true,
+  "transparency": true,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": { "accent": "#bae6fd", "background": "#0c1a2e", "surface": "#172a46", "text": "#e0f2fe" },
+  "animations": { "windowOpen": "fade", "windowClose": "fade", "minimize": "fade", "taskbarHover": "scale", "menuTransition": "fade", "tooltipFade": true },
+  "widgets": [],
+  "tags": ["blue", "cool", "clean"],
+  "downloads": 765,
+  "createdAt": "2026-02-14"
+}

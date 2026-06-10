@@ -1,0 +1,21 @@
+{
+  "id": "venom",
+  "name": "Яд",
+  "version": "1.0.0",
+  "author": "darkpixel",
+  "description": "Токсичный зелёный на чёрном. Хакерская эстетика с высоким контрастом.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#86efac",
+  "darkMode": true,
+  "colorOnTitleBars": true,
+  "transparency": false,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": { "accent": "#86efac", "background": "#0b1a0b", "surface": "#112211", "text": "#dcfce7" },
+  "animations": { "windowOpen": "slide", "windowClose": "slide", "minimize": "spring", "taskbarHover": "glow", "menuTransition": "slide", "tooltipFade": false },
+  "widgets": [],
+  "tags": ["green", "dark", "hacker"],
+  "downloads": 1100,
+  "createdAt": "2026-01-30"
+}
