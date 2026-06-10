@@ -1,39 +1,43 @@
 [
   {
-    "id": "nebula",
-    "name": "Туманность",
+    "id": "arctic",
+    "name": "Арктика",
     "version": "1.0.0",
-    "author": "astrodev",
-    "description": "Глубокий космос — насыщенные фиолетовые и синие оттенки.",
-    "preview": "nebula/preview.png",
-    "wallpaper": "nebula/wallpaper.png",
-    "accentColor": "#818cf8",
-    "darkMode": true,
-    "colorOnTitleBars": true,
-    "transparency": true,
-    "hasCursors": true,
-    "folderIcons": { "enabled": false, "iconPath": "" },
-    "colors": { "accent": "#818cf8", "background": "#0d0d2b", "surface": "#1a1a40", "text": "#e0e0f0" },
-    "animations": { "windowOpen": "spring", "windowClose": "fade", "minimize": "spring", "taskbarHover": "glow", "menuTransition": "fade", "tooltipFade": true },
-    "widgets": [], "tags": ["dark", "space", "purple"], "downloads": 1420, "createdAt": "2026-01-10"
-  },
-  {
-    "id": "sakura",
-    "name": "Сакура",
-    "version": "1.0.0",
-    "author": "yui_theme",
-    "description": "Нежные розовые тона, вдохновлённые сезоном цветения.",
-    "preview": "sakura/preview.png",
-    "wallpaper": "sakura/wallpaper.png",
-    "accentColor": "#f9a8d4",
+    "author": "coldui",
+    "description": "Ледяная голубизна и кристально чистые поверхности.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#bae6fd",
     "darkMode": true,
     "colorOnTitleBars": true,
     "transparency": true,
     "hasCursors": false,
-    "folderIcons": { "enabled": false, "iconPath": "" },
-    "colors": { "accent": "#f9a8d4", "background": "#1a0010", "surface": "#2d0020", "text": "#fce7f3" },
-    "animations": { "windowOpen": "fade", "windowClose": "fade", "minimize": "fade", "taskbarHover": "scale", "menuTransition": "fade", "tooltipFade": true },
-    "widgets": [], "tags": ["pink", "minimal", "light"], "downloads": 980, "createdAt": "2026-02-03"
+    "folderIcons": {
+      "enabled": false,
+      "iconPath": ""
+    },
+    "colors": {
+      "accent": "#bae6fd",
+      "background": "#0c1a2e",
+      "surface": "#172a46",
+      "text": "#e0f2fe"
+    },
+    "animations": {
+      "windowOpen": "fade",
+      "windowClose": "fade",
+      "minimize": "fade",
+      "taskbarHover": "scale",
+      "menuTransition": "fade",
+      "tooltipFade": true
+    },
+    "widgets": [],
+    "tags": [
+      "blue",
+      "cool",
+      "clean"
+    ],
+    "downloads": 765,
+    "createdAt": "2026-02-14"
   },
   {
     "id": "carbon",
@@ -41,17 +45,39 @@
     "version": "1.0.0",
     "author": "darkmode_x",
     "description": "Чистый тёмный фон, ноль отвлечений. Режим концентрации.",
-    "preview": "carbon/preview.png",
-    "wallpaper": "carbon/wallpaper.png",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
     "accentColor": "#9ca3af",
     "darkMode": true,
     "colorOnTitleBars": false,
     "transparency": false,
     "hasCursors": false,
-    "folderIcons": { "enabled": false, "iconPath": "" },
-    "colors": { "accent": "#9ca3af", "background": "#111827", "surface": "#1f2937", "text": "#f9fafb" },
-    "animations": { "windowOpen": "none", "windowClose": "none", "minimize": "none", "taskbarHover": "none", "menuTransition": "none", "tooltipFade": false },
-    "widgets": [], "tags": ["dark", "minimal", "grey"], "downloads": 2310, "createdAt": "2026-01-22"
+    "folderIcons": {
+      "enabled": false,
+      "iconPath": ""
+    },
+    "colors": {
+      "accent": "#9ca3af",
+      "background": "#111827",
+      "surface": "#1f2937",
+      "text": "#f9fafb"
+    },
+    "animations": {
+      "windowOpen": "none",
+      "windowClose": "none",
+      "minimize": "none",
+      "taskbarHover": "none",
+      "menuTransition": "none",
+      "tooltipFade": false
+    },
+    "widgets": [],
+    "tags": [
+      "dark",
+      "minimal",
+      "grey"
+    ],
+    "downloads": 2310,
+    "createdAt": "2026-01-22"
   },
   {
     "id": "citrus",
@@ -59,35 +85,119 @@
     "version": "1.0.0",
     "author": "zestful",
     "description": "Тёплые золотые оттенки, которые освежают рабочее пространство.",
-    "preview": "citrus/preview.png",
-    "wallpaper": "citrus/wallpaper.png",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
     "accentColor": "#fde047",
     "darkMode": true,
     "colorOnTitleBars": true,
     "transparency": true,
     "hasCursors": false,
-    "folderIcons": { "enabled": false, "iconPath": "" },
-    "colors": { "accent": "#fde047", "background": "#1c1800", "surface": "#2d2400", "text": "#fefce8" },
-    "animations": { "windowOpen": "spring", "windowClose": "fade", "minimize": "spring", "taskbarHover": "glow", "menuTransition": "slide", "tooltipFade": true },
-    "widgets": [], "tags": ["warm", "yellow", "gradient"], "downloads": 543, "createdAt": "2026-03-01"
+    "folderIcons": {
+      "enabled": false,
+      "iconPath": ""
+    },
+    "colors": {
+      "accent": "#fde047",
+      "background": "#1c1800",
+      "surface": "#2d2400",
+      "text": "#fefce8"
+    },
+    "animations": {
+      "windowOpen": "spring",
+      "windowClose": "fade",
+      "minimize": "spring",
+      "taskbarHover": "glow",
+      "menuTransition": "slide",
+      "tooltipFade": true
+    },
+    "widgets": [],
+    "tags": [
+      "warm",
+      "yellow",
+      "gradient"
+    ],
+    "downloads": 543,
+    "createdAt": "2026-03-01"
   },
   {
-    "id": "arctic",
-    "name": "Арктика",
+    "id": "nebula",
+    "name": "Туманность",
     "version": "1.0.0",
-    "author": "coldui",
-    "description": "Ледяная голубизна и кристально чистые поверхности.",
-    "preview": "arctic/preview.png",
-    "wallpaper": "arctic/wallpaper.png",
-    "accentColor": "#bae6fd",
+    "author": "astrodev",
+    "description": "Глубокий космос — насыщенные фиолетовые и синие оттенки.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#818cf8",
+    "darkMode": true,
+    "colorOnTitleBars": true,
+    "transparency": true,
+    "hasCursors": true,
+    "folderIcons": {
+      "enabled": false,
+      "iconPath": ""
+    },
+    "colors": {
+      "accent": "#818cf8",
+      "background": "#0d0d2b",
+      "surface": "#1a1a40",
+      "text": "#e0e0f0"
+    },
+    "animations": {
+      "windowOpen": "spring",
+      "windowClose": "fade",
+      "minimize": "spring",
+      "taskbarHover": "glow",
+      "menuTransition": "fade",
+      "tooltipFade": true
+    },
+    "widgets": [],
+    "tags": [
+      "dark",
+      "space",
+      "purple"
+    ],
+    "downloads": 1420,
+    "createdAt": "2026-01-10"
+  },
+  {
+    "id": "sakura",
+    "name": "Сакура",
+    "version": "1.0.0",
+    "author": "yui_theme",
+    "description": "Нежные розовые тона, вдохновлённые сезоном цветения.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#f9a8d4",
     "darkMode": true,
     "colorOnTitleBars": true,
     "transparency": true,
     "hasCursors": false,
-    "folderIcons": { "enabled": false, "iconPath": "" },
-    "colors": { "accent": "#bae6fd", "background": "#0c1a2e", "surface": "#172a46", "text": "#e0f2fe" },
-    "animations": { "windowOpen": "fade", "windowClose": "fade", "minimize": "fade", "taskbarHover": "scale", "menuTransition": "fade", "tooltipFade": true },
-    "widgets": [], "tags": ["blue", "cool", "clean"], "downloads": 765, "createdAt": "2026-02-14"
+    "folderIcons": {
+      "enabled": false,
+      "iconPath": ""
+    },
+    "colors": {
+      "accent": "#f9a8d4",
+      "background": "#1a0010",
+      "surface": "#2d0020",
+      "text": "#fce7f3"
+    },
+    "animations": {
+      "windowOpen": "fade",
+      "windowClose": "fade",
+      "minimize": "fade",
+      "taskbarHover": "scale",
+      "menuTransition": "fade",
+      "tooltipFade": true
+    },
+    "widgets": [],
+    "tags": [
+      "pink",
+      "minimal",
+      "light"
+    ],
+    "downloads": 980,
+    "createdAt": "2026-02-03"
   },
   {
     "id": "venom",
@@ -95,16 +205,38 @@
     "version": "1.0.0",
     "author": "darkpixel",
     "description": "Токсичный зелёный на чёрном. Хакерская эстетика с высоким контрастом.",
-    "preview": "venom/preview.png",
-    "wallpaper": "venom/wallpaper.png",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
     "accentColor": "#86efac",
     "darkMode": true,
     "colorOnTitleBars": true,
     "transparency": false,
     "hasCursors": false,
-    "folderIcons": { "enabled": false, "iconPath": "" },
-    "colors": { "accent": "#86efac", "background": "#0b1a0b", "surface": "#112211", "text": "#dcfce7" },
-    "animations": { "windowOpen": "slide", "windowClose": "slide", "minimize": "spring", "taskbarHover": "glow", "menuTransition": "slide", "tooltipFade": false },
-    "widgets": [], "tags": ["green", "dark", "hacker"], "downloads": 1100, "createdAt": "2026-01-30"
+    "folderIcons": {
+      "enabled": false,
+      "iconPath": ""
+    },
+    "colors": {
+      "accent": "#86efac",
+      "background": "#0b1a0b",
+      "surface": "#112211",
+      "text": "#dcfce7"
+    },
+    "animations": {
+      "windowOpen": "slide",
+      "windowClose": "slide",
+      "minimize": "spring",
+      "taskbarHover": "glow",
+      "menuTransition": "slide",
+      "tooltipFade": false
+    },
+    "widgets": [],
+    "tags": [
+      "green",
+      "dark",
+      "hacker"
+    ],
+    "downloads": 1100,
+    "createdAt": "2026-01-30"
   }
 ]
