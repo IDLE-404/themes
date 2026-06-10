@@ -1,10 +1,10 @@
 [
   {
     "id": "arctic",
-    "name": "Арктика",
+    "name": "Arctic",
     "version": "1.0.0",
-    "author": "coldui",
-    "description": "Ледяная голубизна и кристально чистые поверхности.",
+    "author": "IDLE-404",
+    "description": "Ice-cold blues and crystal-clear surfaces. Clean, sharp, focused.",
     "preview": "preview.png",
     "wallpaper": "wallpaper.png",
     "accentColor": "#bae6fd",
@@ -22,35 +22,25 @@
       "surface": "#172a46",
       "text": "#e0f2fe"
     },
-    "animations": {
-      "windowOpen": "fade",
-      "windowClose": "fade",
-      "minimize": "fade",
-      "taskbarHover": "scale",
-      "menuTransition": "fade",
-      "tooltipFade": true
-    },
-    "widgets": [],
     "tags": [
       "blue",
       "cool",
       "clean"
     ],
-    "downloads": 765,
-    "createdAt": "2026-02-14"
+    "downloads": 0
   },
   {
     "id": "carbon",
-    "name": "Карбон",
+    "name": "Carbon",
     "version": "1.0.0",
-    "author": "darkmode_x",
-    "description": "Чистый тёмный фон, ноль отвлечений. Режим концентрации.",
+    "author": "IDLE-404",
+    "description": "Pure dark. Zero distractions. Deep graphite surfaces with a cool grey accent.",
     "preview": "preview.png",
     "wallpaper": "wallpaper.png",
     "accentColor": "#9ca3af",
     "darkMode": true,
     "colorOnTitleBars": false,
-    "transparency": false,
+    "transparency": true,
     "hasCursors": false,
     "folderIcons": {
       "enabled": false,
@@ -62,29 +52,19 @@
       "surface": "#1f2937",
       "text": "#f9fafb"
     },
-    "animations": {
-      "windowOpen": "none",
-      "windowClose": "none",
-      "minimize": "none",
-      "taskbarHover": "none",
-      "menuTransition": "none",
-      "tooltipFade": false
-    },
-    "widgets": [],
     "tags": [
       "dark",
       "minimal",
       "grey"
     ],
-    "downloads": 2310,
-    "createdAt": "2026-01-22"
+    "downloads": 0
   },
   {
     "id": "citrus",
-    "name": "Цитрус",
+    "name": "Citrus",
     "version": "1.0.0",
-    "author": "zestful",
-    "description": "Тёплые золотые оттенки, которые освежают рабочее пространство.",
+    "author": "IDLE-404",
+    "description": "Warm golden tones that energise your workspace. Bright without being loud.",
     "preview": "preview.png",
     "wallpaper": "wallpaper.png",
     "accentColor": "#fde047",
@@ -102,36 +82,26 @@
       "surface": "#2d2400",
       "text": "#fefce8"
     },
-    "animations": {
-      "windowOpen": "spring",
-      "windowClose": "fade",
-      "minimize": "spring",
-      "taskbarHover": "glow",
-      "menuTransition": "slide",
-      "tooltipFade": true
-    },
-    "widgets": [],
     "tags": [
       "warm",
       "yellow",
-      "gradient"
+      "energy"
     ],
-    "downloads": 543,
-    "createdAt": "2026-03-01"
+    "downloads": 0
   },
   {
     "id": "nebula",
-    "name": "Туманность",
+    "name": "Nebula",
     "version": "1.0.0",
-    "author": "astrodev",
-    "description": "Глубокий космос — насыщенные фиолетовые и синие оттенки.",
+    "author": "IDLE-404",
+    "description": "Deep space vibes — rich purples and indigos that pull you into the cosmos.",
     "preview": "preview.png",
     "wallpaper": "wallpaper.png",
     "accentColor": "#818cf8",
     "darkMode": true,
     "colorOnTitleBars": true,
     "transparency": true,
-    "hasCursors": true,
+    "hasCursors": false,
     "folderIcons": {
       "enabled": false,
       "iconPath": ""
@@ -142,29 +112,19 @@
       "surface": "#1a1a40",
       "text": "#e0e0f0"
     },
-    "animations": {
-      "windowOpen": "spring",
-      "windowClose": "fade",
-      "minimize": "spring",
-      "taskbarHover": "glow",
-      "menuTransition": "fade",
-      "tooltipFade": true
-    },
-    "widgets": [],
     "tags": [
       "dark",
       "space",
       "purple"
     ],
-    "downloads": 1420,
-    "createdAt": "2026-01-10"
+    "downloads": 0
   },
   {
     "id": "sakura",
-    "name": "Сакура",
+    "name": "Sakura",
     "version": "1.0.0",
-    "author": "yui_theme",
-    "description": "Нежные розовые тона, вдохновлённые сезоном цветения.",
+    "author": "IDLE-404",
+    "description": "Soft cherry blossom pinks. Gentle, feminine, and unmistakably spring.",
     "preview": "preview.png",
     "wallpaper": "wallpaper.png",
     "accentColor": "#f9a8d4",
@@ -182,29 +142,19 @@
       "surface": "#2d0020",
       "text": "#fce7f3"
     },
-    "animations": {
-      "windowOpen": "fade",
-      "windowClose": "fade",
-      "minimize": "fade",
-      "taskbarHover": "scale",
-      "menuTransition": "fade",
-      "tooltipFade": true
-    },
-    "widgets": [],
     "tags": [
       "pink",
       "minimal",
-      "light"
+      "soft"
     ],
-    "downloads": 980,
-    "createdAt": "2026-02-03"
+    "downloads": 0
   },
   {
     "id": "venom",
-    "name": "Яд",
+    "name": "Venom",
     "version": "1.0.0",
-    "author": "darkpixel",
-    "description": "Токсичный зелёный на чёрном. Хакерская эстетика с высоким контрастом.",
+    "author": "IDLE-404",
+    "description": "Toxic green on deep black. High contrast hacker aesthetic for night owls.",
     "preview": "preview.png",
     "wallpaper": "wallpaper.png",
     "accentColor": "#86efac",
@@ -222,21 +172,11 @@
       "surface": "#112211",
       "text": "#dcfce7"
     },
-    "animations": {
-      "windowOpen": "slide",
-      "windowClose": "slide",
-      "minimize": "spring",
-      "taskbarHover": "glow",
-      "menuTransition": "slide",
-      "tooltipFade": false
-    },
-    "widgets": [],
     "tags": [
       "green",
       "dark",
       "hacker"
     ],
-    "downloads": 1100,
-    "createdAt": "2026-01-30"
+    "downloads": 0
   }
 ]

@@ -1,21 +1,18 @@
 {
   "id": "carbon",
-  "name": "Карбон",
+  "name": "Carbon",
   "version": "1.0.0",
-  "author": "darkmode_x",
-  "description": "Чистый тёмный фон, ноль отвлечений. Режим концентрации.",
+  "author": "IDLE-404",
+  "description": "Pure dark. Zero distractions. Deep graphite surfaces with a cool grey accent.",
   "preview": "preview.png",
   "wallpaper": "wallpaper.png",
   "accentColor": "#9ca3af",
   "darkMode": true,
   "colorOnTitleBars": false,
-  "transparency": false,
+  "transparency": true,
   "hasCursors": false,
   "folderIcons": { "enabled": false, "iconPath": "" },
   "colors": { "accent": "#9ca3af", "background": "#111827", "surface": "#1f2937", "text": "#f9fafb" },
-  "animations": { "windowOpen": "none", "windowClose": "none", "minimize": "none", "taskbarHover": "none", "menuTransition": "none", "tooltipFade": false },
-  "widgets": [],
   "tags": ["dark", "minimal", "grey"],
-  "downloads": 2310,
-  "createdAt": "2026-01-22"
+  "downloads": 0
 }

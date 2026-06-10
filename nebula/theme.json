@@ -1,33 +1,18 @@
 {
   "id": "nebula",
-  "name": "Туманность",
+  "name": "Nebula",
   "version": "1.0.0",
-  "author": "astrodev",
-  "description": "Глубокий космос — насыщенные фиолетовые и синие оттенки.",
+  "author": "IDLE-404",
+  "description": "Deep space vibes — rich purples and indigos that pull you into the cosmos.",
   "preview": "preview.png",
   "wallpaper": "wallpaper.png",
   "accentColor": "#818cf8",
   "darkMode": true,
   "colorOnTitleBars": true,
   "transparency": true,
-  "hasCursors": true,
+  "hasCursors": false,
   "folderIcons": { "enabled": false, "iconPath": "" },
-  "colors": {
-    "accent": "#818cf8",
-    "background": "#0d0d2b",
-    "surface": "#1a1a40",
-    "text": "#e0e0f0"
-  },
-  "animations": {
-    "windowOpen": "spring",
-    "windowClose": "fade",
-    "minimize": "spring",
-    "taskbarHover": "glow",
-    "menuTransition": "fade",
-    "tooltipFade": true
-  },
-  "widgets": [],
+  "colors": { "accent": "#818cf8", "background": "#0d0d2b", "surface": "#1a1a40", "text": "#e0e0f0" },
   "tags": ["dark", "space", "purple"],
-  "downloads": 1420,
-  "createdAt": "2026-01-10"
+  "downloads": 0
 }

@@ -1,9 +1,9 @@
 {
   "id": "sakura",
-  "name": "Сакура",
+  "name": "Sakura",
   "version": "1.0.0",
-  "author": "yui_theme",
-  "description": "Нежные розовые тона, вдохновлённые сезоном цветения.",
+  "author": "IDLE-404",
+  "description": "Soft cherry blossom pinks. Gentle, feminine, and unmistakably spring.",
   "preview": "preview.png",
   "wallpaper": "wallpaper.png",
   "accentColor": "#f9a8d4",
@@ -13,9 +13,6 @@
   "hasCursors": false,
   "folderIcons": { "enabled": false, "iconPath": "" },
   "colors": { "accent": "#f9a8d4", "background": "#1a0010", "surface": "#2d0020", "text": "#fce7f3" },
-  "animations": { "windowOpen": "fade", "windowClose": "fade", "minimize": "fade", "taskbarHover": "scale", "menuTransition": "fade", "tooltipFade": true },
-  "widgets": [],
-  "tags": ["pink", "minimal", "light"],
-  "downloads": 980,
-  "createdAt": "2026-02-03"
+  "tags": ["pink", "minimal", "soft"],
+  "downloads": 0
 }

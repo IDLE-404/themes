@@ -1,9 +1,9 @@
 {
   "id": "venom",
-  "name": "Яд",
+  "name": "Venom",
   "version": "1.0.0",
-  "author": "darkpixel",
-  "description": "Токсичный зелёный на чёрном. Хакерская эстетика с высоким контрастом.",
+  "author": "IDLE-404",
+  "description": "Toxic green on deep black. High contrast hacker aesthetic for night owls.",
   "preview": "preview.png",
   "wallpaper": "wallpaper.png",
   "accentColor": "#86efac",
@@ -13,9 +13,6 @@
   "hasCursors": false,
   "folderIcons": { "enabled": false, "iconPath": "" },
   "colors": { "accent": "#86efac", "background": "#0b1a0b", "surface": "#112211", "text": "#dcfce7" },
-  "animations": { "windowOpen": "slide", "windowClose": "slide", "minimize": "spring", "taskbarHover": "glow", "menuTransition": "slide", "tooltipFade": false },
-  "widgets": [],
   "tags": ["green", "dark", "hacker"],
-  "downloads": 1100,
-  "createdAt": "2026-01-30"
+  "downloads": 0
 }

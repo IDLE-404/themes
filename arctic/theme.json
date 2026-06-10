@@ -1,9 +1,9 @@
 {
   "id": "arctic",
-  "name": "Арктика",
+  "name": "Arctic",
   "version": "1.0.0",
-  "author": "coldui",
-  "description": "Ледяная голубизна и кристально чистые поверхности.",
+  "author": "IDLE-404",
+  "description": "Ice-cold blues and crystal-clear surfaces. Clean, sharp, focused.",
   "preview": "preview.png",
   "wallpaper": "wallpaper.png",
   "accentColor": "#bae6fd",
@@ -13,9 +13,6 @@
   "hasCursors": false,
   "folderIcons": { "enabled": false, "iconPath": "" },
   "colors": { "accent": "#bae6fd", "background": "#0c1a2e", "surface": "#172a46", "text": "#e0f2fe" },
-  "animations": { "windowOpen": "fade", "windowClose": "fade", "minimize": "fade", "taskbarHover": "scale", "menuTransition": "fade", "tooltipFade": true },
-  "widgets": [],
   "tags": ["blue", "cool", "clean"],
-  "downloads": 765,
-  "createdAt": "2026-02-14"
+  "downloads": 0
 }
