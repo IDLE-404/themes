@@ -11,8 +11,25 @@
   "colorOnTitleBars": true,
   "transparency": false,
   "hasCursors": false,
-  "folderIcons": { "enabled": false, "iconPath": "" },
-  "colors": { "accent": "#86efac", "background": "#0b1a0b", "surface": "#112211", "text": "#dcfce7" },
-  "tags": ["green", "dark", "hacker"],
-  "downloads": 0
+  "folderIcons": {
+    "enabled": false,
+    "iconPath": ""
+  },
+  "colors": {
+    "accent": "#86efac",
+    "background": "#0b1a0b",
+    "surface": "#112211",
+    "text": "#dcfce7"
+  },
+  "tags": [
+    "green",
+    "dark",
+    "hacker"
+  ],
+  "downloads": 0,
+  "screenshots": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ]
 }

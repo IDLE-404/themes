@@ -11,8 +11,25 @@
   "colorOnTitleBars": true,
   "transparency": true,
   "hasCursors": false,
-  "folderIcons": { "enabled": false, "iconPath": "" },
-  "colors": { "accent": "#818cf8", "background": "#0d0d2b", "surface": "#1a1a40", "text": "#e0e0f0" },
-  "tags": ["dark", "space", "purple"],
-  "downloads": 0
+  "folderIcons": {
+    "enabled": false,
+    "iconPath": ""
+  },
+  "colors": {
+    "accent": "#818cf8",
+    "background": "#0d0d2b",
+    "surface": "#1a1a40",
+    "text": "#e0e0f0"
+  },
+  "tags": [
+    "dark",
+    "space",
+    "purple"
+  ],
+  "downloads": 0,
+  "screenshots": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ]
 }

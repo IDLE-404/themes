@@ -27,7 +27,12 @@
       "cool",
       "clean"
     ],
-    "downloads": 0
+    "downloads": 0,
+    "screenshots": [
+      "1.png",
+      "2.png",
+      "3.png"
+    ]
   },
   {
     "id": "carbon",
@@ -57,7 +62,12 @@
       "minimal",
       "grey"
     ],
-    "downloads": 0
+    "downloads": 0,
+    "screenshots": [
+      "1.png",
+      "2.png",
+      "3.png"
+    ]
   },
   {
     "id": "citrus",
@@ -87,7 +97,12 @@
       "yellow",
       "energy"
     ],
-    "downloads": 0
+    "downloads": 0,
+    "screenshots": [
+      "1.png",
+      "2.png",
+      "3.png"
+    ]
   },
   {
     "id": "nebula",
@@ -117,7 +132,12 @@
       "space",
       "purple"
     ],
-    "downloads": 0
+    "downloads": 0,
+    "screenshots": [
+      "1.png",
+      "2.png",
+      "3.png"
+    ]
   },
   {
     "id": "sakura",
@@ -147,7 +167,12 @@
       "minimal",
       "soft"
     ],
-    "downloads": 0
+    "downloads": 0,
+    "screenshots": [
+      "1.png",
+      "2.png",
+      "3.png"
+    ]
   },
   {
     "id": "venom",
@@ -177,6 +202,11 @@
       "dark",
       "hacker"
     ],
-    "downloads": 0
+    "downloads": 0,
+    "screenshots": [
+      "1.png",
+      "2.png",
+      "3.png"
+    ]
   }
 ]
