@@ -1,0 +1,24 @@
+{
+  "id": "glacier",
+  "name": "Glacier",
+  "version": "1.0.0",
+  "author": "IDLE-404",
+  "description": "A rare light theme. Crisp whites with an icy blue accent — like morning frost.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#3b82f6",
+  "darkMode": false,
+  "colorOnTitleBars": false,
+  "transparency": true,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": {
+    "accent": "#3b82f6",
+    "background": "#f0f9ff",
+    "surface": "#ffffff",
+    "text": "#0f172a"
+  },
+  "tags": ["light", "blue", "minimal", "clean"],
+  "createdAt": "2026-02-01",
+  "screenshots": ["1.png", "2.png", "3.png"]
+}

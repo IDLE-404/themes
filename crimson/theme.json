@@ -1,0 +1,24 @@
+{
+  "id": "crimson",
+  "name": "Crimson",
+  "version": "1.0.0",
+  "author": "IDLE-404",
+  "description": "Blood-red on deep black. Bold, dramatic, unapologetically intense.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#f43f5e",
+  "darkMode": true,
+  "colorOnTitleBars": true,
+  "transparency": false,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": {
+    "accent": "#f43f5e",
+    "background": "#1a0005",
+    "surface": "#2d000e",
+    "text": "#ffe4e6"
+  },
+  "tags": ["dark", "red", "bold"],
+  "createdAt": "2026-01-05",
+  "screenshots": ["1.png", "2.png", "3.png"]
+}

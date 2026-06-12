@@ -1,0 +1,24 @@
+{
+  "id": "ember",
+  "name": "Ember",
+  "version": "1.0.0",
+  "author": "IDLE-404",
+  "description": "Smouldering oranges on char-black. Built for late-night sessions.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#fb923c",
+  "darkMode": true,
+  "colorOnTitleBars": true,
+  "transparency": true,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": {
+    "accent": "#fb923c",
+    "background": "#1c0a00",
+    "surface": "#2d1200",
+    "text": "#fef3c7"
+  },
+  "tags": ["dark", "orange", "warm"],
+  "createdAt": "2026-01-15",
+  "screenshots": ["1.png", "2.png", "3.png"]
+}

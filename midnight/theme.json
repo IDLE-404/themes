@@ -1,0 +1,24 @@
+{
+  "id": "midnight",
+  "name": "Midnight",
+  "version": "1.0.0",
+  "author": "IDLE-404",
+  "description": "Electric blue on pure black. Corporate by day, deep by night.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#60a5fa",
+  "darkMode": true,
+  "colorOnTitleBars": true,
+  "transparency": true,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": {
+    "accent": "#60a5fa",
+    "background": "#020817",
+    "surface": "#0f172a",
+    "text": "#e2e8f0"
+  },
+  "tags": ["dark", "blue", "professional"],
+  "createdAt": "2025-12-20",
+  "screenshots": ["1.png", "2.png", "3.png"]
+}

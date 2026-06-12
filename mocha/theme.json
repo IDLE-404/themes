@@ -1,0 +1,24 @@
+{
+  "id": "mocha",
+  "name": "Mocha",
+  "version": "1.0.0",
+  "author": "IDLE-404",
+  "description": "Warm coffee browns and amber highlights. Cosy productivity all day long.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#d97706",
+  "darkMode": true,
+  "colorOnTitleBars": false,
+  "transparency": true,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": {
+    "accent": "#d97706",
+    "background": "#1c1008",
+    "surface": "#2d1c0e",
+    "text": "#fef3c7"
+  },
+  "tags": ["dark", "brown", "warm", "cozy"],
+  "createdAt": "2026-02-15",
+  "screenshots": ["1.png", "2.png", "3.png"]
+}

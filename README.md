@@ -13,4 +13,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on creating and submit
 ## Theme count
 
 <!-- auto-updated by CI -->
-6 themes available
+12 themes available

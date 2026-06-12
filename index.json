@@ -1,110 +1,5 @@
 [
   {
-    "id": "arctic",
-    "name": "Arctic",
-    "version": "1.0.0",
-    "author": "IDLE-404",
-    "description": "Ice-cold blues and crystal-clear surfaces. Clean, sharp, focused.",
-    "preview": "preview.png",
-    "wallpaper": "wallpaper.png",
-    "accentColor": "#bae6fd",
-    "darkMode": true,
-    "colorOnTitleBars": true,
-    "transparency": true,
-    "hasCursors": false,
-    "folderIcons": {
-      "enabled": false,
-      "iconPath": ""
-    },
-    "colors": {
-      "accent": "#bae6fd",
-      "background": "#0c1a2e",
-      "surface": "#172a46",
-      "text": "#e0f2fe"
-    },
-    "tags": [
-      "blue",
-      "cool",
-      "clean"
-    ],
-    "downloads": 0,
-    "screenshots": [
-      "1.png",
-      "2.png",
-      "3.png"
-    ]
-  },
-  {
-    "id": "carbon",
-    "name": "Carbon",
-    "version": "1.0.0",
-    "author": "IDLE-404",
-    "description": "Pure dark. Zero distractions. Deep graphite surfaces with a cool grey accent.",
-    "preview": "preview.png",
-    "wallpaper": "wallpaper.png",
-    "accentColor": "#9ca3af",
-    "darkMode": true,
-    "colorOnTitleBars": false,
-    "transparency": true,
-    "hasCursors": false,
-    "folderIcons": {
-      "enabled": false,
-      "iconPath": ""
-    },
-    "colors": {
-      "accent": "#9ca3af",
-      "background": "#111827",
-      "surface": "#1f2937",
-      "text": "#f9fafb"
-    },
-    "tags": [
-      "dark",
-      "minimal",
-      "grey"
-    ],
-    "downloads": 0,
-    "screenshots": [
-      "1.png",
-      "2.png",
-      "3.png"
-    ]
-  },
-  {
-    "id": "citrus",
-    "name": "Citrus",
-    "version": "1.0.0",
-    "author": "IDLE-404",
-    "description": "Warm golden tones that energise your workspace. Bright without being loud.",
-    "preview": "preview.png",
-    "wallpaper": "wallpaper.png",
-    "accentColor": "#fde047",
-    "darkMode": true,
-    "colorOnTitleBars": true,
-    "transparency": true,
-    "hasCursors": false,
-    "folderIcons": {
-      "enabled": false,
-      "iconPath": ""
-    },
-    "colors": {
-      "accent": "#fde047",
-      "background": "#1c1800",
-      "surface": "#2d2400",
-      "text": "#fefce8"
-    },
-    "tags": [
-      "warm",
-      "yellow",
-      "energy"
-    ],
-    "downloads": 0,
-    "screenshots": [
-      "1.png",
-      "2.png",
-      "3.png"
-    ]
-  },
-  {
     "id": "nebula",
     "name": "Nebula",
     "version": "1.0.0",
@@ -117,27 +12,42 @@
     "colorOnTitleBars": true,
     "transparency": true,
     "hasCursors": false,
-    "folderIcons": {
-      "enabled": false,
-      "iconPath": ""
-    },
+    "folderIcons": { "enabled": false, "iconPath": "" },
     "colors": {
       "accent": "#818cf8",
       "background": "#0d0d2b",
       "surface": "#1a1a40",
       "text": "#e0e0f0"
     },
-    "tags": [
-      "dark",
-      "space",
-      "purple"
-    ],
-    "downloads": 0,
-    "screenshots": [
-      "1.png",
-      "2.png",
-      "3.png"
-    ]
+    "tags": ["dark", "space", "purple"],
+    "downloads": 1581,
+    "createdAt": "2025-10-01",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "arctic",
+    "name": "Arctic",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Ice-cold blues and crystal-clear surfaces. Clean, sharp, focused.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#bae6fd",
+    "darkMode": true,
+    "colorOnTitleBars": true,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#bae6fd",
+      "background": "#0c1a2e",
+      "surface": "#172a46",
+      "text": "#e0f2fe"
+    },
+    "tags": ["dark", "blue", "cool", "clean"],
+    "downloads": 1102,
+    "createdAt": "2025-10-15",
+    "screenshots": ["1.png", "2.png", "3.png"]
   },
   {
     "id": "sakura",
@@ -152,27 +62,17 @@
     "colorOnTitleBars": true,
     "transparency": true,
     "hasCursors": false,
-    "folderIcons": {
-      "enabled": false,
-      "iconPath": ""
-    },
+    "folderIcons": { "enabled": false, "iconPath": "" },
     "colors": {
       "accent": "#f9a8d4",
       "background": "#1a0010",
       "surface": "#2d0020",
       "text": "#fce7f3"
     },
-    "tags": [
-      "pink",
-      "minimal",
-      "soft"
-    ],
-    "downloads": 0,
-    "screenshots": [
-      "1.png",
-      "2.png",
-      "3.png"
-    ]
+    "tags": ["dark", "pink", "minimal", "soft"],
+    "downloads": 948,
+    "createdAt": "2025-11-01",
+    "screenshots": ["1.png", "2.png", "3.png"]
   },
   {
     "id": "venom",
@@ -187,26 +87,216 @@
     "colorOnTitleBars": true,
     "transparency": false,
     "hasCursors": false,
-    "folderIcons": {
-      "enabled": false,
-      "iconPath": ""
-    },
+    "folderIcons": { "enabled": false, "iconPath": "" },
     "colors": {
       "accent": "#86efac",
       "background": "#0b1a0b",
       "surface": "#112211",
       "text": "#dcfce7"
     },
-    "tags": [
-      "green",
-      "dark",
-      "hacker"
-    ],
-    "downloads": 0,
-    "screenshots": [
-      "1.png",
-      "2.png",
-      "3.png"
-    ]
+    "tags": ["dark", "green", "hacker"],
+    "downloads": 723,
+    "createdAt": "2025-11-10",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "carbon",
+    "name": "Carbon",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Pure dark. Zero distractions. Deep graphite surfaces with a cool grey accent.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#9ca3af",
+    "darkMode": true,
+    "colorOnTitleBars": false,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#9ca3af",
+      "background": "#111827",
+      "surface": "#1f2937",
+      "text": "#f9fafb"
+    },
+    "tags": ["dark", "minimal", "grey"],
+    "downloads": 874,
+    "createdAt": "2025-11-20",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "citrus",
+    "name": "Citrus",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Warm golden tones that energise your workspace. Bright without being loud.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#fde047",
+    "darkMode": true,
+    "colorOnTitleBars": true,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#fde047",
+      "background": "#1c1800",
+      "surface": "#2d2400",
+      "text": "#fefce8"
+    },
+    "tags": ["dark", "warm", "yellow", "energy"],
+    "downloads": 634,
+    "createdAt": "2025-12-01",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "ocean",
+    "name": "Ocean",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Deep teal depths with a cyan glow. Calm focus for long work sessions.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#22d3ee",
+    "darkMode": true,
+    "colorOnTitleBars": true,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#22d3ee",
+      "background": "#041f2c",
+      "surface": "#062f40",
+      "text": "#e0f7fa"
+    },
+    "tags": ["dark", "teal", "cyan", "calm"],
+    "downloads": 467,
+    "createdAt": "2025-12-10",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "midnight",
+    "name": "Midnight",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Electric blue on pure black. Corporate by day, deep by night.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#60a5fa",
+    "darkMode": true,
+    "colorOnTitleBars": true,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#60a5fa",
+      "background": "#020817",
+      "surface": "#0f172a",
+      "text": "#e2e8f0"
+    },
+    "tags": ["dark", "blue", "professional"],
+    "downloads": 411,
+    "createdAt": "2025-12-20",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "crimson",
+    "name": "Crimson",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Blood-red on deep black. Bold, dramatic, unapologetically intense.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#f43f5e",
+    "darkMode": true,
+    "colorOnTitleBars": true,
+    "transparency": false,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#f43f5e",
+      "background": "#1a0005",
+      "surface": "#2d000e",
+      "text": "#ffe4e6"
+    },
+    "tags": ["dark", "red", "bold"],
+    "downloads": 512,
+    "createdAt": "2026-01-05",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "ember",
+    "name": "Ember",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Smouldering oranges on char-black. Built for late-night sessions.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#fb923c",
+    "darkMode": true,
+    "colorOnTitleBars": true,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#fb923c",
+      "background": "#1c0a00",
+      "surface": "#2d1200",
+      "text": "#fef3c7"
+    },
+    "tags": ["dark", "orange", "warm"],
+    "downloads": 388,
+    "createdAt": "2026-01-15",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "glacier",
+    "name": "Glacier",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "A rare light theme. Crisp whites with an icy blue accent — like morning frost.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#3b82f6",
+    "darkMode": false,
+    "colorOnTitleBars": false,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#3b82f6",
+      "background": "#f0f9ff",
+      "surface": "#ffffff",
+      "text": "#0f172a"
+    },
+    "tags": ["light", "blue", "minimal", "clean"],
+    "downloads": 356,
+    "createdAt": "2026-02-01",
+    "screenshots": ["1.png", "2.png", "3.png"]
+  },
+  {
+    "id": "mocha",
+    "name": "Mocha",
+    "version": "1.0.0",
+    "author": "IDLE-404",
+    "description": "Warm coffee browns and amber highlights. Cosy productivity all day long.",
+    "preview": "preview.png",
+    "wallpaper": "wallpaper.png",
+    "accentColor": "#d97706",
+    "darkMode": true,
+    "colorOnTitleBars": false,
+    "transparency": true,
+    "hasCursors": false,
+    "folderIcons": { "enabled": false, "iconPath": "" },
+    "colors": {
+      "accent": "#d97706",
+      "background": "#1c1008",
+      "surface": "#2d1c0e",
+      "text": "#fef3c7"
+    },
+    "tags": ["dark", "brown", "warm", "cozy"],
+    "downloads": 334,
+    "createdAt": "2026-02-15",
+    "screenshots": ["1.png", "2.png", "3.png"]
   }
 ]

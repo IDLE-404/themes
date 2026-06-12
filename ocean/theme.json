@@ -1,0 +1,24 @@
+{
+  "id": "ocean",
+  "name": "Ocean",
+  "version": "1.0.0",
+  "author": "IDLE-404",
+  "description": "Deep teal depths with a cyan glow. Calm focus for long work sessions.",
+  "preview": "preview.png",
+  "wallpaper": "wallpaper.png",
+  "accentColor": "#22d3ee",
+  "darkMode": true,
+  "colorOnTitleBars": true,
+  "transparency": true,
+  "hasCursors": false,
+  "folderIcons": { "enabled": false, "iconPath": "" },
+  "colors": {
+    "accent": "#22d3ee",
+    "background": "#041f2c",
+    "surface": "#062f40",
+    "text": "#e0f7fa"
+  },
+  "tags": ["dark", "teal", "cyan", "calm"],
+  "createdAt": "2025-12-10",
+  "screenshots": ["1.png", "2.png", "3.png"]
+}

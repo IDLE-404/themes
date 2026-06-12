@@ -11,25 +11,14 @@
   "colorOnTitleBars": true,
   "transparency": true,
   "hasCursors": false,
-  "folderIcons": {
-    "enabled": false,
-    "iconPath": ""
-  },
+  "folderIcons": { "enabled": false, "iconPath": "" },
   "colors": {
     "accent": "#fde047",
     "background": "#1c1800",
     "surface": "#2d2400",
     "text": "#fefce8"
   },
-  "tags": [
-    "warm",
-    "yellow",
-    "energy"
-  ],
-  "downloads": 0,
-  "screenshots": [
-    "1.png",
-    "2.png",
-    "3.png"
-  ]
+  "tags": ["dark", "warm", "yellow", "energy"],
+  "createdAt": "2025-12-01",
+  "screenshots": ["1.png", "2.png", "3.png"]
 }
